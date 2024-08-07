@@ -21,9 +21,13 @@ Link to the demo of our developed UI for the application of the proposed method:
    - The predefined labels for the selected model will be loaded and displayed automatically.
 
 ![Choose Model](images/Stage1_1.png)
-*Fig 1: Select a predefined model from the list.*
+<p align="center">Fig 1: Select a predefined model from the list.</p>
+
+
 ![Predefined Labels](images/Stage1_2.png)
-*Fig 2: Predefined labels for the selected model.*
+<p align="center">Fig 2: Predefined labels for the selected model.</p>
+
+
 <!-- 
 2. **Or Upload Your Own Model**:
    - Upload a custom model file.
@@ -39,9 +43,13 @@ Link to the demo of our developed UI for the application of the proposed method:
    - The uploaded image will be used in subsequent steps for analysis.
 
 ![Upload Image](images/Stage2_1.png)
-*Fig 3: Upload an image for analysis.*
+<p align="center">Fig 3: Upload an image for analysis.</p>
+
+
 ![Uploaded Image](images/Stage2_2.png)
-*Fig 4: Uploaded image ready for highlighting.*
+<p align="center">Fig 4: Uploaded image ready for highlighting.</p>
+
+
 
 2. **Proceed to the Next Step**:
    - Click the "Next: Highlight Important Areas" button to move to the next stage.
@@ -52,11 +60,17 @@ Link to the demo of our developed UI for the application of the proposed method:
    - Draw on the uploaded image to highlight important areas. These areas will be considered crucial for the analysis.
 
 ![Highlight Important Areas](images/Stage3_1.png)
-*Fig 5: Highlight important areas in the image.*
+<p align="center">Fig 5: Highlight important areas in the image.</p>
+
+
 ![Draw Important Areas](images/Stage3_2.png)
-*Fig 6: Draw on the image to mark important areas.*
+<p align="center">Fig 6: Draw on the image to mark important areas.</p>
+
+
 ![Highlighted Important Areas](images/Stage3_3.png)
-*Fig 7: Important areas highlighted.*
+<p align="center">Fig 7: Important areas highlighted.</p>
+
+
 
 2. **Proceed to the Next Step**:
    - Click the "Next: Highlight Unimportant Areas" button to move to the next stage.
@@ -67,7 +81,9 @@ Link to the demo of our developed UI for the application of the proposed method:
    - Draw on the uploaded image to highlight unimportant areas. These areas will be ignored during the analysis.
 
 ![Highlight Unimportant Areas](images/Stage4_1.png)
-*Fig 8: Highlight unimportant areas in the image.*
+<p align="center">Fig 8: Highlight unimportant areas in the image.</p>
+
+
 
 2. **Proceed to the Next Step**:
    - Click the "Next: Classify Image" button to move to the next stage.
@@ -78,7 +94,9 @@ Link to the demo of our developed UI for the application of the proposed method:
    - The app will display the classification results based on your inputs and highlighted areas.
 
 ![Classification Result](images/Stage5_1.png)
-*Fig 9: View classification results.*
+<p align="center">Fig 9: View classification results.</p>
+
+
 
 2. **Classify Image**:
    - Click the "Classify Image" button to perform the classification and view the results.
