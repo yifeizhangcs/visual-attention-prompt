@@ -1,8 +1,8 @@
 # Visual Attention Prompted Prediction and Learning
 
-This repo includes the source code the developed tools for paper [Visual Attention Prompted Prediction and Learning](https://www.ijcai.org/proceedings/2024/0610.pdf) accepted by IJCAI 2024
+This repo includes the source code the developed tools for paper [Visual Attention Prompted Prediction and Learning](https://www.ijcai.org/proceedings/2024/610) accepted by IJCAI 2024!
 
-Link to the demo of our developed UI for the application of the proposed method: [170.140.151.23](http://170.140.151.23)
+Link to the demo of our developed UI for the application of the proposed method: [170.140.151.23](http://170.140.151.23).
 
 ## Features
 
@@ -109,6 +109,25 @@ Link to the demo of our developed UI for the application of the proposed method:
 - **Predefined Labels**: The predefined labels for each model are displayed in the first step when a model is selected.
 - **Custom Models**: If you upload your own model, ensure it is compatible with the app's requirements. -->
 
+## BibTeX
+```
+@inproceedings{ijcai2024p610,
+  title     = {Visual Attention Prompted Prediction and Learning},
+  author    = {Zhang, Yifei and Pan, Bo and Gu, Siyi and Bai, Guangji and Qiu, Meikang and Yang, Xiaofeng and Zhao, Liang},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Kate Larson},
+  pages     = {5517--5525},
+  year      = {2024},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2024/610},
+  url       = {https://doi.org/10.24963/ijcai.2024/610},
+}
+```
+
 ## Technical Details
 
 This app is built using Gradio, a Python library for creating web interfaces for machine learning models. It leverages PyTorch for model handling and image processing.
+
