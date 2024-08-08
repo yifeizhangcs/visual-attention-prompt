@@ -11,6 +11,7 @@ Link to the demo of our developed UI for the application of the proposed method:
 - **Highlighting Important Areas**: Draw on the image to highlight important areas.
 - **Highlighting Unimportant Areas**: Draw on the image to highlight areas that should be ignored.
 - **Classification Results**: View the classification results based on the inputs and highlighted areas.
+- **Refined Prompt Display**: Display the masked image after applying the refined prompt.
 
 ## How to Use the App
 
@@ -60,7 +61,7 @@ Link to the demo of our developed UI for the application of the proposed method:
    - Draw on the uploaded image to highlight important areas. These areas will be considered crucial for the analysis.
 
 ![Highlight Important Areas](images/Stage3_1.png)
-<p align="center">Fig 5: Highlight important areas in the image.</p>
+<p align="center">Fig 5: Select the drawing tool to begin labeling.</p>
 
 
 ![Draw Important Areas](images/Stage3_2.png)
@@ -78,23 +79,25 @@ Link to the demo of our developed UI for the application of the proposed method:
 ### Step 4: Highlight Unimportant Areas
 
 1. **Highlight Unimportant Areas**:
-   - Draw on the uploaded image to highlight unimportant areas. These areas will be ignored during the analysis.
+   - Draw on the uploaded image to highlight unimportant areas. These areas will be ignored during the analysis. This step is similar to the previous step. 
 
 ![Highlight Unimportant Areas](images/Stage4_1.png)
 <p align="center">Fig 8: Highlight unimportant areas in the image.</p>
 
 
-
 2. **Proceed to the Next Step**:
    - Click the "Next: Classify Image" button to move to the next stage.
 
-### Step 5: Classification Result
+### Step 5: Classification Result & Refined Prompt Display
 
-1. **View Classification Results**:
-   - The app will display the classification results based on your inputs and highlighted areas.
+1. **Classify Image**:
+   - Click the "Classify Image" button to perform the classification and view the results.
+
+2. **View Classification Results**:
+   - The app will display the classification results and the masked image with refined prompt based on your inputs and highlighted areas.
 
 ![Classification Result](images/Stage5_1.png)
-<p align="center">Fig 9: View classification results.</p>
+<p align="center">Fig 9: View classification results and masked input.</p>
 
 
 
