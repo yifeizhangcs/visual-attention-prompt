@@ -2,7 +2,7 @@
 
 This repo includes the source code the developed tools for paper [Visual Attention Prompted Prediction and Learning](https://www.ijcai.org/proceedings/2024/610) accepted by IJCAI 2024!
 
-Link to the demo of our developed UI for the application of the proposed method: [170.140.151.23](http://170.140.151.23).
+Link to the demo of our developed UI for the application of the proposed method: [https://vapl.mathcs.emory.edu/](https://vapl.mathcs.emory.edu/).
 
 ## Features
 
